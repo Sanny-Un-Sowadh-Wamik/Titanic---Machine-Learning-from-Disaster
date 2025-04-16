@@ -12,6 +12,9 @@ The notebook `model.ipynb` includes:
 - Model Training (e.g., Logistic Regression, Random Forest, XGBoost)
 - Evaluation and Submission File Generation
 
+## 🏁 Competition Score
+📈 **Current Best Score:** `0.76794`
+
 ## 🛠️ How to Use
 1. Upload the Titanic dataset to your Kaggle notebook (via the "Add Data" option).
 2. Run all cells in `model.ipynb`.
